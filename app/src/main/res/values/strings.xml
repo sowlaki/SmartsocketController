@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smartsocket Controller</string>
+    <string name="screen_height">screen_height</string>
+    <string name="screen_width">scree_width</string>
+    <string name="button">Button</string>
+    <string name="scan">Scan</string>
+    <string name="ble_not_supported">\"BLE Not supported\"</string>
+    <string name="scan_for_device">Scan for device</string>
+    <string name="device_text">TextView</string>
+    <string name="labelfor">labelfor</string>
+    <string name="deviceName">TextView</string>
+    <string name="deviceAddress">TextView</string>
+    <string name="ConnectingStatus">Connecting</string>
+
+</resources>

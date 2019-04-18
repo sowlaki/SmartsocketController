@@ -19,8 +19,9 @@ import androidx.recyclerview.widget.RecyclerView;
 public class DeviceListAdapter extends RecyclerView.Adapter<DeviceListAdapter.DeviceViewHolder> {
 
 
-    public ArrayList<String> DeviceName;
-    public ArrayList<String> DeviceAddress;
+
+    private ArrayList<String> DeviceName;
+    private ArrayList<String> DeviceAddress;
 
     View.OnClickListener listener;
 
